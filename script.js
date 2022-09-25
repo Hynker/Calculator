@@ -6,7 +6,7 @@ var substraction = false;
 var multiplication = false;
 var division = false;
 
-/**
+/** Проверяю работу GIT
  * Проверка, нажат, вычитания, умножения или деления
  * @returns true ели нажата одна из кнопок
  */
