@@ -7,7 +7,7 @@ var multiplication = false;
 var division = false;
 
 /**
- * Проверка, нажата ли кнопка сложения, вычитания, умножения или деления
+ * Проверка, нажат, вычитания, умножения или деления
  * @returns true ели нажата одна из кнопок
  */
 function anyOperationApplyed() {
